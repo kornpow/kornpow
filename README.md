@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## I am currently looking for a new role
+My favorite things are Python and Infrastructure. But I am always looking for cool new projects to work on.
+
+## I can take apart the remote control... and I can almost put it back together
+[![Flobots - Handlebars](https://img.youtube.com/vi/HLUX0y4EptA/0.jpg)](https://www.youtube.com/watch?v=HLUX0y4EptA)
+
 <!--
 **kornpow/kornpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
